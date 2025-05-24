@@ -1,0 +1,32 @@
+# Python cache & environments
+__pycache__/
+*.py[cod]
+*.egg
+*.egg-info/
+*.eggs/
+env/
+venv/
+ENV/
+.venv/
+.env
+.env.*
+
+# IDE/editor settings
+.vscode/
+.idea/
+
+# Data outputs
+data/*.json
+data/index.faiss
+data/meta.pkl
+
+# FAISS index & metadata
+index.faiss
+meta.pkl
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
