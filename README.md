@@ -25,9 +25,9 @@ source .venv/bin/activate
 Install dependencies
 
 pip install -r requirements.txt
-3. **Configure your Telegram token**  
+3. **Configure the Telegram token**  
 # .env file in project root
-BOT_TOKEN=123456789:blahblahblah
+BOT_TOKEN=7507566797:AAENYa8Bw8K6qHwuDplYBF7w0sCHSYxQQiw
 
 ### Usage
 
