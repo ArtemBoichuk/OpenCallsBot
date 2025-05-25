@@ -1,7 +1,6 @@
 ## Features
 
-- **Live API scraping** of current calls (only this year and later), with automatic PDF download  
-- **Budget extraction** from detailed XML endpoints  
+- **Live API scraping** of current calls (only this year and later)    
 - **OCR fallback** for scanned PDF pages (via PyMuPDF + Tesseract)  
 - **Deadline parsing** in English & Greek (numeric dates and spelled-out months)  
 - **Merge logic**: always keeps the freshest deadline per programme code  
